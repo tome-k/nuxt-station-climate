@@ -2,7 +2,6 @@
   "name": "nuxt-weather",
   "version": "1.0.0",
   "description": "Nuxt Weather, just yet another Nuxt.js project",
-  "author": "NicoPennec <nemohp@yahoo.fr>",
   "private": true,
   "engines": {
     "node": ">=8",
